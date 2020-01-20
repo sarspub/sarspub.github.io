@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 什么是SARS病毒
 
-You can use the [editor on GitHub](https://github.com/sarspub/sarspub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有囊膜，外周有冠状排列的纤突,分布于细胞浆中，呈圆形，病毒直径在80~120nm之间。在广州地区和北京地区的尸解肺组织标本感染的Vero-E6细胞中均查见大量的病毒颗粒，多呈圆形，直径在80nm左右。病毒颗粒主要分布在胞浆的内质网池、胞浆空泡内和细胞外，多聚集成堆。感染病毒的细胞可见内质网扩张，线粒体肿胀、嵴溶解,细胞核染色质凝聚，边集。[--百度百科](https://baike.baidu.com/item/SARS%E7%97%85%E6%AF%92)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 为什么要做这个
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SARS@2013
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### SARS@2020
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 后记
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sarspub/sarspub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这么多年了，为何有关部门处理事情的做法一点儿也没有改进！！！
