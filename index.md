@@ -7,41 +7,45 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 ![404](https://raw.githubusercontent.com/sarspub/sarspub.github.io/master/images/zhihu.jpg)
 ![2020年武汉春运预计发送旅客1500万人次](https://raw.githubusercontent.com/sarspub/sarspub.github.io/master/images/2020chunyun.jpg)
 
+---
+
 ### SARS@2020
 
-- 1月20日
+#### 1月20日
 
-[浙江发现5例武汉来浙出现发热等症状患者，北京广东确诊新型冠状病毒感染肺炎病例](https://mp.weixin.qq.com/s/5xdBGRNeecmxf3iQFLz4PA)
-[历时15年，武汉病毒所终证实“非典”罪魁祸首是蝙蝠](https://tech.sina.com.cn/d/f/2020-01-20/doc-iihnzhha3638660.shtml)
-[武汉新增136例新型冠状病毒肺炎病例](https://finance.sina.com.cn/china/gncj/2020-01-20/doc-iihnzhha3621563.shtml)
-[北京、广东出现“武汉肺炎”，国家卫健委向全国下发防控方案](https://mp.weixin.qq.com/s/cPxUD7dpSs4Jh-XXQ1zRrA)
+- [浙江发现5例武汉来浙出现发热等症状患者，北京广东确诊新型冠状病毒感染肺炎病例](https://mp.weixin.qq.com/s/5xdBGRNeecmxf3iQFLz4PA)
+- [历时15年，武汉病毒所终证实“非典”罪魁祸首是蝙蝠](https://tech.sina.com.cn/d/f/2020-01-20/doc-iihnzhha3638660.shtml)
+- [武汉新增136例新型冠状病毒肺炎病例](https://finance.sina.com.cn/china/gncj/2020-01-20/doc-iihnzhha3621563.shtml)
+- [北京、广东出现“武汉肺炎”，国家卫健委向全国下发防控方案](https://mp.weixin.qq.com/s/cPxUD7dpSs4Jh-XXQ1zRrA)
 
-- 1月18日
+#### 1月18日
 
-[中疾控：引起武汉肺炎疫情病原体并非SARS病毒](http://news.sina.com.cn/c/2020-01-18/doc-iihnzahk4938667.shtml)
+- [中疾控：引起武汉肺炎疫情病原体并非SARS病毒](http://news.sina.com.cn/c/2020-01-18/doc-iihnzahk4938667.shtml)
 
-- 1月14日
+#### 1月14日
 
-[武汉肺炎病毒基因谱公开,近80%似SARS,泰国现首例](https://new.qq.com/rain/a/20200114a0jld800) - *404*
+- [武汉肺炎病毒基因谱公开,近80%似SARS,泰国现首例](https://new.qq.com/rain/a/20200114a0jld800) - *404*
 
-- 1月7日
+#### 1月7日
 
-[官宣！武汉病毒性肺炎不是SARS,新加坡病例最新发现！](http://3g.163.com/all/article/F29G0L4E05371E5Q.html)
-[武汉肺炎已排除SARS但病原仍未明确，香港疑似病例增至16宗](http://www.djkpai.com/news/168654.jhtml)
+- [官宣！武汉病毒性肺炎不是SARS,新加坡病例最新发现！](http://3g.163.com/all/article/F29G0L4E05371E5Q.html)
+- [武汉肺炎已排除SARS但病原仍未明确，香港疑似病例增至16宗](http://www.djkpai.com/news/168654.jhtml)
 
-- 1月6日
+#### 1月6日
 
-[疾控专家：武汉不明原因肺炎排除SARS，未发现人传人证据](https://www.thepaper.cn/newsDetail_forward_5442894)
+- [疾控专家：武汉不明原因肺炎排除SARS，未发现人传人证据](https://www.thepaper.cn/newsDetail_forward_5442894)
 
-- 1月5日
+#### 1月5日
 
-[武汉发现不明原因肺炎患者59例 已排除SARS病原](http://news.sina.com.cn/c/2020-01-05/doc-iihnzahk2155769.shtml)
+- [武汉发现不明原因肺炎患者59例 已排除SARS病原](http://news.sina.com.cn/c/2020-01-05/doc-iihnzahk2155769.shtml)
 
-- 2019年12月
+#### 2019年12月
 
-[武汉疾控回应：正排查不明原因肺炎情况，与SARS无关]()
-[官方:武汉不明原因肺炎不能断定是SARS 7例病情危重](https://news.163.com/19/1231/12/F1NMDES70001899O.html)
-[2020年武汉春运预计发送旅客1500万人次](https://hb.qq.com/a/20191228/005844.htm)
+- [武汉疾控回应：正排查不明原因肺炎情况，与SARS无关]()
+- [官方:武汉不明原因肺炎不能断定是SARS 7例病情危重](https://news.163.com/19/1231/12/F1NMDES70001899O.html)
+- [2020年武汉春运预计发送旅客1500万人次](https://hb.qq.com/a/20191228/005844.htm)
+
+---
 
 ### SARS@2013
 
@@ -112,10 +116,14 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 宁夏 | 6 | 0 | 1 | 2
 总共 | 4698 | 917 | 284 | 1529
 
+---
+
 ### 如何预防
 
 [如何预防新型冠状病毒肺炎？专家支招，最好的办法是这个](https://www.takefoto.cn/viewnews-2024222.html)
 [WHO：大众如何预防新型冠状病毒](https://mp.weixin.qq.com/s/aFqWxTWzTOnTtgfr1NTZig)
+
+---
 
 ### 后记
 
