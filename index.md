@@ -280,7 +280,7 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 
 ## 如何预防
 
- -[“武汉肺炎”感染再增新病例 春节期间如何预防？](http://finance.china.com.cn/roll/20200121/5179309.shtml)
+- [“武汉肺炎”感染再增新病例 春节期间如何预防？](http://finance.china.com.cn/roll/20200121/5179309.shtml)
 - [武汉肺炎如何防护?有孩子的家庭一定做好这三点](http://www.thepaper.cn/newsDetail_forward_5584747)
 - [如何预防新型冠状病毒肺炎？专家支招，最好的办法是这个](https://www.takefoto.cn/viewnews-2024222.html)
 - [WHO：大众如何预防新型冠状病毒](https://mp.weixin.qq.com/s/aFqWxTWzTOnTtgfr1NTZig)
