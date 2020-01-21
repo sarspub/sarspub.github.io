@@ -40,44 +40,168 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 
 #### 1月21日
 
+- [钟南山：武汉新型肺炎暂无特效药，担心出现“毒王”级超级传播者](http://news.ifeng.com/c/7tPztU03Yx4)
 - [中华人民共和国国家卫生健康委员会公告2020年第1号](http://www.gov.cn/xinwen/2020-01/21/content_5471158.htm)
-- [武汉20日派送20万张免费旅游券 次日宣布延期](http://news.ifeng.com/c/7tPUhZ522ca)
 - [14名医护被感染，武汉为何不早点让公众知情](http://news.sina.com.cn/c/2020-01-21/doc-iihnzahk5493317.shtml)
+- [珠海出现武汉肺炎确诊案例 澳门紧急宣布设立应变中心](http://www.caixin.com/2020-01-21/101506817.html)
+- [台湾确诊首例新型冠状病毒肺炎患者 患者是在武汉工作](http://365jia.cn/news/2020-01-21/7E716EEAC99C4026.html)
+- [合肥市发现一例新型冠状病毒感染的肺炎疑似病例 曾在武汉从事牛肉冷冻产品运营管理工作](http://www.ahwang.cn/hefei/20200121/1971643.html)
+- [天津确诊2例新型肺炎病例 近日曾赴武汉旅游](http://3g.163.com/news/article/F3EDP9S30001899O.html)
+- [武汉市新增肺炎病例60例 死亡病例增至6例](https://news.qq.com/a/20200121/014572.htm)
+- [澳洲发现一例新型肺炎疑似患者 刚从武汉探亲回来](http://news.163.com/20/0121/14/F3DVEKIH0001899O.html#f=post1603_tab_news)
+- [望对因传播武汉肺炎不实消息而处理的8人重新开展调查](http://news.ifeng.com/c/7tPld9ExPpQ)
+- [汇丰控股:有员工感染甲型流感 感染武汉肺炎属误传](http://finance.sina.com.cn/stock/relnews/hk/2020-01-21/doc-iihnzahk5566369.shtml)
+- [日本要求彻底采取边境检疫对策,应对“武汉新型肺炎”](http://news.ifeng.com/c/7tPd37voZCi)
+- [北海市发现1例疑似新型肺炎病例,来自武汉的游客](https://new.qq.com/omn/20200121/20200121A09MVD00.html)
+- [香港现106例疑似武汉肺炎官方：尚无一例确诊](https://news.sina.com.cn/c/2020-01-21/doc-iihnzahk5525652.shtml)
+- [青岛市卫健委:收治一例来自武汉的疑似新型肺炎病例 病患正在隔离治疗](http://news.163.com/20/0121/07/F3DAAKTA00019K82.html)
+- [武汉新型肺炎新增死亡病例1例 15名医务人员感染](http://mil.news.sina.com.cn/2020-01-21/doc-iihnzhha3818733.shtml)
+- [武汉卫健委:19日晚新型肺炎新增死亡1例](https://new.qq.com/omn/20200121/20200121A035PW00.html)
 
 #### 1月20日
 
-- [钟南山:一名新型冠状病毒病人致14名医务人员感染](https://c.m.163.com/news/a/F3CC1NOD0001899O.html)
 - [习近平对新型冠状病毒感染的肺炎疫情作出重要指示](http://www.gov.cn/xinwen/2020-01/20/content_5471057.htm)
-- [浙江发现5例武汉来浙出现发热等症状患者，北京广东确诊新型冠状病毒感染肺炎病例](https://mp.weixin.qq.com/s/5xdBGRNeecmxf3iQFLz4PA)
-- [历时15年，武汉病毒所终证实“非典”罪魁祸首是蝙蝠](https://tech.sina.com.cn/d/f/2020-01-20/doc-iihnzhha3638660.shtml)
-- [武汉新增136例新型冠状病毒肺炎病例](https://finance.sina.com.cn/china/gncj/2020-01-20/doc-iihnzhha3621563.shtml)
 - [北京、广东出现“武汉肺炎”，国家卫健委向全国下发防控方案](https://mp.weixin.qq.com/s/cPxUD7dpSs4Jh-XXQ1zRrA)
-- [武汉今起派送20万张惠民旅游券 大年初一到十五免费游黄鹤楼等30个景区](http://m.cnhubei.com/content/2020-01/20/content_12631785.html)
+- [钟南山谈“武汉肺炎”:感染处在爬坡期,存在人传人现象](http://m.sohu.com/a/368135927_114988)
+- [广东新增13例新型冠状病毒肺炎 11例曾到过武汉](http://3g.163.com/news/article/F3C2P1R60001875P.html)
+- [韩媒:韩国出现一例武汉肺炎确诊病例](http://news.163.com/20/0120/12/F3B7KTLS0001899N.html)
+- [浙江发现5例疑似武汉肺炎患者](http://news.sina.com.cn/zx/2020-01-20/doc-iihnzhha3626509.shtml)
+- [北京确诊2例新型肺炎病例 均为有武汉旅行史的患者](https://www.guancha.cn/politics/2020_01_20_532287.shtml)
+- [多地凌晨通报新型冠状病毒肺炎:武汉新增136例深圳1例北京2例](https://new.qq.com/omn/20200120/20200120A02ZGB00.html)
+- [武汉新型肺炎新增死亡病例1例 近两日新确诊136例](http://3g.163.com/news/article_cambrian/F3A6A3C50001899O.html)
+- [武汉肺炎疫情拉响警报!国家卫健委主任挂帅,向全国各省派出工作组](https://new.qq.com/omn/20200120/20200120A01JL500.html)
+
+#### 1月19日
+
+- [武汉肺炎病例在国外出现 多国对武汉旅客入境检查](http://news.sina.com.cn/c/2020-01-19/doc-iihnzahk5031941.shtml)
+- [武汉新型肺炎病例新增17例:其中3例重症,目前累计感染62例](https://new.qq.com/omn/TWF20200/TWF202001190001680O)
+- [武汉市就新型冠状病毒感染的肺炎综合防控答记者问](http://www.chinanews.com/sh/2020/01-19/9063812.shtml)
+- [武汉新型肺炎病例新增17例 其中重症病例3例](http://news.163.com/20/0119/00/F37D74DM0001899O.html)
 
 #### 1月18日
 
-- [中疾控：引起武汉肺炎疫情病原体并非SARS病毒](http://news.sina.com.cn/c/2020-01-18/doc-iihnzahk4938667.shtml)
+- [加拿大三大机场执行筛检 对武汉肺炎严防死守](https://dushi.singtao.ca/toronto/%e6%96%b0%e9%97%bb/%e5%8a%a0%e5%9b%bd%e8%a6%81%e9%97%bb/%e5%8a%a0%e6%8b%bf%e5%a4%a7%e4%b8%89%e5%a4%a7%e6%9c%ba%e5%9c%ba%e6%89%a7%e8%a1%8c%e7%ad%9b%e6%a3%80-%e5%af%b9%e6%ad%a6%e6%b1%89%e8%82%ba%e7%82%8e%e4%b8%a5%e9%98%b2%e6%ad%bb%e5%ae%88/)
+- [英国科学家估算武汉肺炎潜在感染者逾千人 世卫称欢迎此类分析](http://www.caixin.com/2020-01-18/101505683.html)
+- [武汉新增4名新型肺炎患者均为男性 目前病情稳定](http://news.163.com/20/0118/00/F34PK9T20001899O.html#f=post1603_tab_news)
+
+#### 1月17日
+
+- [武汉15日无新增新型冠状病毒感染肺炎病例 出院5例 新增死亡1例](http://www.xinhuanet.com/2020-01/17/c_1125474595.htm)
+- [武汉通报:新型冠状病毒肺炎新增死亡1例,系69岁男性](https://new.qq.com/omn/20200117/20200117A08J5W00.html)
+- [泰国出现第2起武汉肺炎病例，患者为74岁中国籍女性](http://www.sohu.com/a/367527497_323328)
+
+#### 1月16日
+
+- [日本现首宗武汉肺炎病例患者中国籍](https://www.ntdtv.com/gb/2020/01/16/a102754250.html)
+- [日本出现首例武汉不明肺炎](http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20200116-%E6%AD%A6%E6%B1%89%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E-%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E9%A6%96%E4%BE%8B)
+- [武汉新型冠状病毒肺炎新增死亡病例1例](https://news.qq.com/a/20200116/018894.htm)
+- [日本首次发现不明肺炎患者,是去过武汉的中国人](http://news.ifeng.com/c/7tH7bIcxT2h)
+- [武汉卫健委:无新增新型冠状病毒感染的肺炎病例](http://politics.gmw.cn/2020-01/16/content_33485092.htm)
+
+#### 1月15日
+
+- [美国警告在华美国公民防范武汉肺炎的爆发](https://www.voachinese.com/a/u-s-warns-citizens-in-china-against-pneumonia-outbreak-20200115/5246393.html)
+- [港府汇报武汉肺炎考察情况,仍需加强防控](http://fashion.ifeng.com/c/7tG4fCAgbBA)
+- [武汉确定新型肺炎病例41例:多与海鲜市场暴露相关](http://news.163.com/20/0115/15/F2UL6NRJ0001899O.html#f=post1603_tab_news)
+- [武汉13日无新型冠状病毒感染肺炎新增、治愈出院、死亡病例](http://news.youth.cn/sh/202001/t20200115_12169485.htm)
+- [武汉卫健委:肺炎不排除有限人传人可能 但持续风险较低](http://www.cnr.cn/hubei/yuanchuang/20200115/t20200115_524938633.shtml)
+- [港澳台专家组赴武汉考察肺炎疫情](http://news.ifeng.com/c/7tFSpSnMBQ2)
+- [美媒:快速识别武汉肺炎病毒 中国公共卫生的胜利](http://news.sina.com.cn/c/2020-01-15/doc-iihnzahk4161683.shtml)
 
 #### 1月14日
 
-- [武汉肺炎病毒基因谱公开,近80%似SARS,泰国现首例](https://new.qq.com/rain/a/20200114a0jld800) - *404*
+- [武汉不明原因肺炎疫情通报:12日无新增病例 治愈出院1例](http://www.dzshbw.com/news/2020/minsheng_0114/253544.html)
+- [武汉肺炎病毒基因谱公开,近80%似SARS,泰国现首例](https://new.qq.com/rain/a/20200114a0jld800)
+- [香港特首:没出现武汉有关严重肺炎个案](https://tech.ifeng.com/c/7tEH8HCVpw0)
+
+#### 1月13日
+
+- [中国妇女泰国遭隔离世卫组织证实武汉肺炎海外首例](http://www.rfi.fr/cn/contenu/20200113-%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E6%B3%B0%E5%9B%BD%E9%81%AD%E9%9A%94%E7%A6%BB-%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E8%AF%81%E5%AE%9E%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E%E6%B5%B7%E5%A4%96%E9%A6%96%E4%BE%8B)
+- [武汉12日无新增新型冠状病毒感染肺炎病例](http://www.xinhuanet.com/2020-01/13/c_1125457693.htm)
+- [武汉通报新型冠状病毒感染肺炎:死亡1例 717人尚在接受观察](http://365jia.cn/news/2020-01-13/C59B6C7C8B3636CF.html)
+
+#### 1月12日
+
+- [深圳出现一例重症肺炎病例 深圳卫健委:与武汉近期肺炎无关联](http://news.ifeng.com/c/7tBNZGxze9g)
+- [港府:武汉肺炎基因排序已与世界卫生组织分享](http://finance.ifeng.com/c/7tBIhYI42Qi)
+
+#### 1月11日
+
+- [武汉肺炎死亡病例:男61岁 常年在华南采购海鲜](http://news.sina.com.cn/c/2020-01-11/doc-iihnzahk3398760.shtml)
+- [死亡1例重症7例 武汉卫健委通报不明肺炎最新情况](http://news.163.com/20/0111/07/F2JG5TNS0001899O.html)
+- [武汉新型肺炎致死1人,专家解读来了……](https://new.qq.com/rain/a/20200111A0OGP900)
+
+#### 1月10日
+
+- [救治组专家:武汉病毒性肺炎患者病情多可得到控制](http://news.ifeng.com/c/7t7TQIvk704)
+- [香港专家:武汉不明肺炎严重程度比SARS低](http://www.caixin.com/2020-01-10/101502736.html)
+- [清迈机场发现“武汉肺炎”,疑似病例泰国增至5人](http://3g.163.com/all/article/F2HDDABK05248NJC.html)
+
+#### 1月9日
+
+- [港卫生局:香港并无武汉肺炎相关确诊病例](http://news.ifeng.com/c/7t6NHQcJFAG)
+- [面对武汉肺炎港市民表示丝毫不急:萨斯时期已养成好习惯](http://finance.ifeng.com/c/7t6NsdzHbbE)
+- [武汉不明肺炎病原体初步判定为新型冠状病毒](http://finance.ifeng.com/c/7t5azeauVjS)
+
+#### 1月8日
+
+- [武汉8名不明原因肺炎患者出院](https://tech.sina.com.cn/roll/2020-01-09/doc-iihnzahk2904824.shtml)
+- [香港最大政党民建联成员访中联办 关注武汉肺炎](http://finance.ifeng.com/c/7t3wvidkH44)
 
 #### 1月7日
 
+- [中国日报网评:武汉病毒性肺炎防控有序 信息透明赢得国际认可](http://cn.chinadaily.com.cn/a/202001/07/WS5e13fb2ca31099ab995f5b7c.html)
+- [新加坡疑似“武汉肺炎”病例已排除,最新证实“武汉肺炎”非SARS](http://m.sohu.com/a/365343491_377317)
+- [武汉发现不明原因肺炎 世界卫生组织对此发出通告](https://tech.ifeng.com/c/7t2aNZRrJ1E)
+- [香港将武汉肺炎纳入法定监管传染病 当局可强制患者隔离](http://www.caixin.com/2020-01-07/101501792.html)
 - [官宣！武汉病毒性肺炎不是SARS,新加坡病例最新发现！](http://3g.163.com/all/article/F29G0L4E05371E5Q.html)
-- [武汉肺炎已排除SARS但病原仍未明确，香港疑似病例增至16宗](http://www.djkpai.com/news/168654.jhtml)
 
 #### 1月6日
 
+- [武汉不明原因病毒性肺炎未发现明确的人传人证据](http://news.xinhuanet.com/mrdx/2020-01/06/c_138681670.htm)
 - [疾控专家：武汉不明原因肺炎排除SARS，未发现人传人证据](https://www.thepaper.cn/newsDetail_forward_5442894)
+- [武汉肺炎已排除SARS但病原仍未明确,香港疑似病例增至16宗](https://new.qq.com/omn/20200106/20200106A0427900.html?pgv_ref=aio2015)
 
 #### 1月5日
 
 - [武汉发现不明原因肺炎患者59例 已排除SARS病原](http://news.sina.com.cn/c/2020-01-05/doc-iihnzahk2155769.shtml)
+- [新加坡通报首例疑似不明原因肺炎 女童患者曾到武汉旅游](https://tech.ifeng.com/c/7szDsvPWi7k)
+- [香港新增6宗肺炎怀疑个案 均到过武汉](https://tech.ifeng.com/c/7sz7XHSKjlg)
+
+#### 1月4日
+
+- [澳门针对武汉肺炎 加强陆路口岸检疫](http://finance.ifeng.com/c/7sxfHyt265I)
+- [香港武汉肺炎怀疑病例增至7例 港府启动“严重”应变级别](http://www.caixin.com/2020-01-04/101501017.html)
+
+#### 1月3日
+
+- [武汉现不明原因肺炎患者44例 未发现明显人传人证据](http://finance.sina.com.cn/china/gncj/2020-01-03/doc-iihnzahk1818583.shtml)
+- [武汉市卫健委:不明原因肺炎患者已发现44例 重症11例](https://finance.sina.cn/2020-01-03/detail-iihnzhha0161607.d.html)
+- [武汉卫健委:不明原因的病毒性肺炎已排除流感禽流感](http://finance.sina.com.cn/china/gncj/2020-01-03/doc-iihnzhha0114834.shtml)
+- [港旅客无惧武汉肺炎疫情 称有信心](http://fashion.ifeng.com/c/7sw5EJkd2Rc)
+
+#### 1月2日
+
+- [武汉爆发肺炎一度被谣传是沙斯 樟宜机场已采取预防措施](https://new.qq.com/omn/20200102/20200102A0RO5R00)
+- [香港一医院接收疑为武汉不明肺炎病人](http://finance.ifeng.com/c/7suKX5esRwO)
+- [武汉肺炎患者转入传染病医院 市场附近居民感染](http://news.sina.com.cn/c/2020-01-02/doc-iihnzahk1475514.shtml)
+
+#### 1月1日
+
+- [武汉警方:8人散布武汉肺炎不实消息 被依法处理](http://news.youth.cn/sh/202001/t20200101_12158810.htm)
+- [武汉肺炎疑重演SARS疫情?港专家:机会不大](https://tech.ifeng.com/c/7ssdV5tzxnE)
+- [武汉华南海鲜市场休市 商户:并不担心被传染肺炎](http://news.sina.com.cn/c/2020-01-01/doc-iihnzhfz9663091.shtml)
+- [武汉现27例肺炎病例 涉事海鲜城将开展消毒工作](http://news.sina.com.cn/c/2020-01-01/doc-iihnzhfz9635419.shtml)
 
 #### 2019年12月
 
-- [武汉疾控回应：正排查不明原因肺炎情况，与SARS无关]()
+- [湖北省卫健委:武汉病毒性肺炎未发现明显人传人现象](http://henan.china.com.cn/health/2019-12/31/content_41019243.htm)
+- [武汉肺炎疫情速报:相关样品已经送至中科院武汉国家生物安全实验室](http://finance.ifeng.com/c/7sr1QV1YikM)
+- [武汉卫健委:不明肺炎系病毒性肺炎 已发现27例](http://news.sina.com.cn/c/2019-12-31/doc-iihnzhfz9461741.shtml)
+- [武汉现多例不明原因肺炎,中科院武汉病毒所正检测相关样本](http://www.thepaper.cn/newsDetail_forward_5390696)
+- [武汉发现不明原因肺炎 专家组已达武汉](http://news.hnr.cn/201912/31/80725.html)
+- [武汉现不明肺炎 当地海鲜市场商户称还在正常营业](http://news.sina.com.cn/o/2019-12-31/doc-iihnzahk1094572.shtml)
+- [武汉疾控回应：正排查不明原因肺炎情况，与SARS无关](https://view.inews.qq.com/a/20191231A08KV800)
 - [官方:武汉不明原因肺炎不能断定是SARS 7例病情危重](https://news.163.com/19/1231/12/F1NMDES70001899O.html)
 - [2020年武汉春运预计发送旅客1500万人次](https://hb.qq.com/a/20191228/005844.htm)
 
@@ -156,6 +280,8 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 
 ## 如何预防
 
+ -[“武汉肺炎”感染再增新病例 春节期间如何预防？](http://finance.china.com.cn/roll/20200121/5179309.shtml)
+- [武汉肺炎如何防护?有孩子的家庭一定做好这三点](http://www.thepaper.cn/newsDetail_forward_5584747)
 - [如何预防新型冠状病毒肺炎？专家支招，最好的办法是这个](https://www.takefoto.cn/viewnews-2024222.html)
 - [WHO：大众如何预防新型冠状病毒](https://mp.weixin.qq.com/s/aFqWxTWzTOnTtgfr1NTZig)
 - [春节期间正确认识和防范新型冠状病毒]()
@@ -164,4 +290,4 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 
 ## 后记
 
-这么多年了，有关部门处理事情的做法一点儿也没有改进！
+珍重生命，保护自己！
