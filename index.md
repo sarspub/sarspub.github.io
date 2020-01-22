@@ -38,8 +38,23 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 
 ## SARS@2020
 
+#### 1月22日
+
+- [专家称武汉新型肺炎存变异可能 重症病例一人一案](http://news.sina.com.cn/c/2020-01-22/doc-iihnzhha4069404.shtml)
+- [武汉肺炎已致9例死亡 确诊超400例](http://news.sina.com.cn/c/2020-01-22/doc-iihnzhha4067050.shtml)
+- [上海新增3例新型冠状病毒肺炎病例 均有武汉旅行史](http://3g.163.com/news/article/F3G3PJIB0001899N.html)
+- [河南省确诊首例新型肺炎病例 患者之前在武汉市工作](http://news.17car.com.cn/guonei/2020/0122/34653.html)
+- [台湾地区出现武汉肺炎首例 韓國瑜呼吁市民防疫](http://www.huaxia.com/xw/twxw/2020/01/6344793.html)
+- [湖北报告新型肺炎病例270例 救治费用由政府买单](http://hb.people.com.cn/BIG5/n2/2020/0122/c194063-33737992.html)
+- [江西确诊2例新型肺炎病例 曾去武汉](http://www.ce.cn/xwzx/gnsz/gdxw/202001/22/t20200122_34173572.shtml)
+- [美国确诊首例新型肺炎病例 患者从武汉返回美国](http://www.nbd.com.cn/articles/2020-01-22/1402107.html)
+- [武汉首例重症新型肺炎出院患者：护士姐姐特别好，总给我加油](https://tech.sina.com.cn/roll/2020-01-22/doc-iihnzhha4015830.shtml)
+
 #### 1月21日
 
+- [四川确认首例新型肺炎病例 患者在武汉工作](https://news.sina.cn/2020-01-21/detail-iihnzahk5663302.d.html?vt=4)
+- [吉林长春发现1例疑似新型肺炎病例 患者来自武汉](https://news.sina.cn/gn/2020-01-21/detail-iihnzahk5663311.d.html)
+- [武汉肺炎事件8人被警方查处 无一人被拘留被处罚](http://news.sina.com.cn/c/2020-01-21/doc-iihnzahk5647568.shtml)
 - [钟南山：武汉新型肺炎暂无特效药，担心出现“毒王”级超级传播者](http://news.ifeng.com/c/7tPztU03Yx4)
 - [中华人民共和国国家卫生健康委员会公告2020年第1号](http://www.gov.cn/xinwen/2020-01/21/content_5471158.htm)
 - [14名医护被感染，武汉为何不早点让公众知情](http://news.sina.com.cn/c/2020-01-21/doc-iihnzahk5493317.shtml)
