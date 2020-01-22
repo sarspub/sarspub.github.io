@@ -38,6 +38,8 @@ SARS病毒属于冠状病毒科( coronavirus) ，病毒粒子多呈圆形，有�
 
 ## SARS@2020
 
+#### [肺炎疫情实时动态播报](http://news.163.com/special/epidemic/)
+
 #### 1月22日
 
 - [专家称武汉新型肺炎存变异可能 重症病例一人一案](http://news.sina.com.cn/c/2020-01-22/doc-iihnzhha4069404.shtml)
